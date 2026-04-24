@@ -10,7 +10,7 @@ body{
 	width:90%;
 	margin:auto;
 	height:120px;
-	line-height:130px;
+	line-height:120px;
 	background:#417aa8;
 	color:#fff;
 }
@@ -22,7 +22,7 @@ body{
 .menu{
 	background-color:#417aa8;
 	height:50px;
-	lineheight:50px;
+	line-height:50px;
 	position:relative;
 	width:90%;
 	margin:0 auto;
